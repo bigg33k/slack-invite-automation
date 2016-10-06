@@ -10,6 +10,8 @@ and
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+[![Build Status](https://travis-ci.org/bigg33k/slack-invite-automation.svg?branch=master)](https://travis-ci.org/bigg33k/slack-invite-automation)
+
 ## Setting
 fill out `config.js` as your infomation.
 
